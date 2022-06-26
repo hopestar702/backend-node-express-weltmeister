@@ -1,9 +1,3 @@
-node-impact-weltmeister
------------------------
-
-Aiming to provide a complete drop-in replacement for the PHP backend used by
-ImactJS's Weltmeister editor, for use with express.
-
 Quickstart
 ----------
 
@@ -13,5 +7,3 @@ Quickstart
     node server.js
 
 ---
-
-[![Analytics](https://ga-beacon.appspot.com/UA-33247419-2/node-impact-weltmeister/README.md)](https://github.com/igrigorik/ga-beacon)
